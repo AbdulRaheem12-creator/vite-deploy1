@@ -41,7 +41,7 @@ button{
 .singletodo{
   border-radius: 50px;
   margin: 10px 0;
-  background-color: skyblue;
+  background-color: aqua;
   padding: 10px 20px;
   display: flex;
   width: 450px;
@@ -49,4 +49,5 @@ button{
 }
 .todotext{
   flex: 1;
+  color: black;
 }
